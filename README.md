@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Alfredo!
 
 
-## 💻 Full-Stack Developer & UX/UI Enthusiast
+## 💻 Full-Stack Developer & MSc Student in Human-Computer Interaction
 
-I love building web apps that look good and feel great to use. Always exploring new tech and crafting interfaces people actually enjoy.
+I'm a Computer Science graduate from the University of Padua, currently pursuing an MSc in Human-Computer Interaction at the University of Trento. I enjoy building web applications that combine solid engineering with thoughtful UX/UI design, creating digital experiences that are both functional and enjoyable to use.
 
 
 ## 🚀 Featured Projects
@@ -77,6 +77,9 @@ Group project for a collaborative platform for reviewing running shoes with user
 
 
 ## 📚 Education
+
+🎓 **MSc in Human-Computer Interaction** – University of Trento
+📅 09/2026 – Present | 🔄 Currently pursuing
 
 🎓 **BSc in Computer Science** – University of Padua  
 📅 09/2022 – 07/2025 | 🏆 Grade: 107/110  

@@ -78,7 +78,7 @@ Group project for a collaborative platform for reviewing running shoes with user
 
 ## 📚 Education
 
-🎓 **MSc in Human-Computer Interaction** – University of Trento
+🎓 **MSc in Human-Computer Interaction** – University of Trento  
 📅 09/2026 – Present | 🔄 Currently pursuing
 
 🎓 **BSc in Computer Science** – University of Padua  

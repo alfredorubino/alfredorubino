@@ -33,7 +33,7 @@ Group project for a real-time advertising platform that generates personalized n
 
 ### 👟 [CorsaIdeale – Running Shoes Review Platform](https://github.com/ProgettoTecWeb24/Project)
   
-**🌐 [Live Demo](https://caa.studenti.math.unipd.it/epinarel/index.php)** - *Submitted for "Accattivante Accessibile 2025", a web accessibility contest organized by the University of Padua that challenges students to create visually appealing websites while ensuring full WCAG compliance.*
+**🌐 [Live Demo](https://caa2025.studenti.math.unipd.it/epinarel/index.php)** - *Submitted for "Accattivante Accessibile 2025", a web accessibility contest organized by the University of Padua that challenges students to create visually appealing websites while ensuring full WCAG compliance.*
 
 *Web Technologies Course Project, University of Padua*
 
